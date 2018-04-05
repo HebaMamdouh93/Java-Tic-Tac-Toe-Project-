@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 1, 2018, 1:45:40 AM
+    Author     : Lenovo
+*/
+
+.root{
+    -fx-background-color: Linear-gradient(#0099CC,white,#0099CC);
+  
+}
+.btn1{
+    -fx-background-image: url('x.png');
+}
+.btn2{
+    -fx-background-image: url('O.png');
+}
